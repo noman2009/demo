@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "fakeapi":{
+     "Code": "Success",
+     "LastUpdated": "2019-07-29",
+     "AccountId": "123456789"
   }
 }
